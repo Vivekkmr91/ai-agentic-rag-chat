@@ -159,7 +159,7 @@ Complex Queries:
 - **Live Demo**: https://3000-i4j5cphw7pl6siu7gta9g-6532622b.e2b.dev
 - **Development**: http://localhost:3000 (Frontend) + http://localhost:8000 (Python API)  
 - **Production**: Ready for Cloudflare Pages deployment
-- **GitHub**: https://github.com/USERNAME/ai-agentic-rag-chat (to be created)
+- **GitHub**: https://github.com/Vivekkmr91/ai-agentic-rag-chat
 
 ## 🚀 Deployment
 

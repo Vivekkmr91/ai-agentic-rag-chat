@@ -20,7 +20,7 @@ AI Agentic RAG Chat is an innovative application that combines:
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/USERNAME/ai-agentic-rag-chat.git
+git clone https://github.com/Vivekkmr91/ai-agentic-rag-chat.git
 cd ai-agentic-rag-chat
 
 # Install dependencies
